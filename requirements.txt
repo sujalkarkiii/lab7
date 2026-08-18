@@ -1,0 +1,8 @@
+flask
+transformers
+torch
+Pillow
+gTTS
+deep-translator
+sentencepiece
+accelerate
